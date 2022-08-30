@@ -45,7 +45,7 @@ analytics:
 author:
   name             : "Souheil TAIEB"
   avatar           : "/assets/images/staieb-tof.jpg"
-
+  instagram        : "https://www.instagram.com/s0uhel/"
   bio              : >-
     I am a hobbyist photographer.
   location         : "France"
@@ -53,31 +53,19 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sxtaieb@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sotaieb.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sotaieb"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sotaieb"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/s0uhel/"
 
 # Site Footer
 footer:
   links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/s0uhel/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sxtaieb@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sotaieb.com/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sotaieb"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sotaieb"
 
 # Reading Files
 include:
