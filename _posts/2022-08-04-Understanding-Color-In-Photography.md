@@ -121,6 +121,18 @@ Technically 0% and 100% are neutral in color but there are no image details at t
 
 In an 8-bit/channel space, the RGB values for 18% grey is 46/46/46 (256 x 0.18).
 
+## LAB Model
+
+- L: Lightness
+- A: Green-Red
+- B: Blue-Yellow
+
+## Contrast
+
+Contrast means difference between the darker parts and the bright parts of your image.
+
+The most common differences are achieved by changes in the tones or colors that compose the image.
+
 ## Texture
 
 In photography, texture is the visual depiction of variations in the color, shape, and depth of an object’s surface.

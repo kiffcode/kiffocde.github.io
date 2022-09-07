@@ -22,6 +22,7 @@ You can use a grey card 18% grey.
 
 ## Adjust the White Balance Using Xrite Calibrate ColorChecker
 
+0- Shooting the Color Checker Passport
 1- Export RAW photo of colorChecker Passeport.
 2- Convert RAW to DNG (Adobe Dng Converter).
 Save as -> dng
